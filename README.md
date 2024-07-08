@@ -15,3 +15,6 @@ To train on google colab follow this https://www.youtube.com/watch?v=LNwODJXcvt4
 
 
 Once you have a .pt file from using the train notebook. Upload it here to get the blob and json http://tools.luxonis.com/
+
+Here is a colab notebook for testing the model on a downloaded image.
+https://colab.research.google.com/drive/1gDWdpX0gsqNXSP4zu9rAqwENEQ41KtRT?usp=sharing Upload an image and the .pt file and it will draw bounding boxes on the image for you. Also compares it with the pretrained yolov8n model
