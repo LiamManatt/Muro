@@ -10,3 +10,5 @@ For training once you pick an amount of epochs you are stuck with it because the
 
 
 Do not attempt to train without gpu support, its pointless. https://www.youtube.com/watch?v=r7Am-ZGMef8 follow this for directions on how to set up cuda if you have a nvidia graphics card.
+
+To train on google colab follow this https://www.youtube.com/watch?v=LNwODJXcvt4, though getting the dataset uploaded there would be very tricky.
